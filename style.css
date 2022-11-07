@@ -1,0 +1,10 @@
+.text-area {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 200px;
+}
+
+.text-area__button {
+  max-width: 75px;
+}
